@@ -1,6 +1,6 @@
-# 🎨 Skribble-clone – A Real-Time Multiplayer Drawing & Guessing Game
+# 🎨 SketchGuess – A Real-Time Multiplayer Drawing & Guessing Game
 
-**Skribble-clone** is a fun real-time multiplayer game inspired by the classic Skribbl.io. One player draws a word while others guess it through a live chat. It's simple, engaging, and built with WebSockets to enable smooth real-time interactions.
+**SketchGuess** is a fun real-time multiplayer game inspired by the classic Skribbl.io. One player draws a word while others guess it through a live chat. It's simple, engaging, and built with WebSockets to enable smooth real-time interactions.
 
 ## ✨ Features
 
@@ -23,10 +23,10 @@ To run the project locally:
 
 ```bash
 # Clone the repository
-git clone https://github.com/hemanth3139/Skribble-clone
+git clone https://github.com/litaction/SketchGuess
 
 # Navigate into the project directory
-cd Skribble-clone
+cd SketchGuess
 
 # Install dependencies
 npm install
